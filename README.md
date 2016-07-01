@@ -10,5 +10,5 @@
 ####策略模式：TW homework（收银台），Tomcat
 ####命令模式：Tomcat
 ####责任链模式：Tomcat
-####persional exercise of design patterns in Java
+####personal exercise of design patterns in Java
 ####If something is not right，please notify me....
